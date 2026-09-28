@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm computer science student in specialization of ai and ml<br>i'm currently focusing on mastering fundamentals<br>
+Computer Science student specializing in AI & Machine Learning. Currently building full-stack AI-driven applications and sharpening core engineering fundamentals.
 
 
 ## 🌐 Socials:
